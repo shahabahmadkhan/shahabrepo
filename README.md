@@ -1,4 +1,0 @@
-kuldeeprepo
-===========
-
-Trainingpractice
